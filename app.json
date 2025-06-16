@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Calculator",
+    "slug": "Calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bg.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/bg.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bg.jpg",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
